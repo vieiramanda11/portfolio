@@ -2317,7 +2317,7 @@ textarea.w-select {
 
 .community {
   height: auto;
-  padding: 65px 65px 65px 100px;
+  padding: 65px 0 65px 30px;
   background-color: #f4f3f3;
 }
 
@@ -2351,10 +2351,6 @@ textarea.w-select {
 
 .unordered-list {
   list-style: none;
-}
-
-.ul-2 {
-  float: left;
 }
 
 .speaking_event {
