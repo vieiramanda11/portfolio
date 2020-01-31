@@ -2352,7 +2352,7 @@ textarea.w-select {
 }
 
 .ul-2 {
-  margin-left: 100px;
+  margin-left: 10em;
 }
 
 .speaking_event {
@@ -2421,6 +2421,7 @@ textarea.w-select {
   font-family: "Museosans 100", sans-serif;
   color: #999;
   text-align: center;
+  font-size: 10px;
 }
 
 .devider {
