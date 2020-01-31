@@ -2345,6 +2345,8 @@ textarea.w-select {
   line-height: 18px;
   text-decoration: none;
   display: inline-flex;
+  justify-content: space-between;
+  width: 70%;
 }
 
 .unordered-list {
@@ -2352,7 +2354,7 @@ textarea.w-select {
 }
 
 .ul-2 {
-  margin-left: 10em;
+  float: left;
 }
 
 .speaking_event {
